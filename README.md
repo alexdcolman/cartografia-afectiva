@@ -6,7 +6,7 @@ Este repositorio presenta un análisis computacional de emociones en textos espe
 
 Este proyecto fue desarrollado por:
 
-    Alex Colman – Diseño metodológico, modelado y análisis
+- **Alex Colman – Diseño metodológico, modelado y análisis**
 
 Para dudas o colaboraciones, podés contactarme vía GitHub o correo:
 alexdcolman@gmail.com
@@ -18,31 +18,31 @@ Este repositorio documenta un proyecto interdisciplinario que combina conocimien
 
 ## Objetivos
 
-    Construir una base de datos anotada con variables semiótico-discursivas que permitan un análisis inferencial riguroso de las emociones en textos especializados.
+- Construir una base de datos anotada con variables semiótico-discursivas que permitan un análisis inferencial riguroso de las emociones en textos especializados.
 
-    Desarrollar un metalenguaje operativo para describir las emociones como procesos discursivos complejos, tomando como unidad el simulacro emocional —una configuración sintáctico-actancial que permite identificar y atribuir emociones a experienciadores específicos—. Este metalenguaje articula 92 variables que capturan dimensiones estructurales, semántico-pragmáticas y actanciales, incluyendo características contextuales, categorías emocionales, componentes modales, temporales, aspectuales y estésicos, así como roles actanciales. Además, incorpora indicadores axiológicos, estrategias argumentativas y recursos retóricos que orientan la interpretación afectiva, posibilitando un análisis integral y sistemático.
+- Desarrollar un metalenguaje operativo para describir las emociones como procesos discursivos complejos, tomando como unidad el simulacro emocional —una configuración sintáctico-actancial que permite identificar y atribuir emociones a experienciadores específicos—. Este metalenguaje articula 92 variables que capturan dimensiones estructurales, semántico-pragmáticas y actanciales, incluyendo características contextuales, categorías emocionales, componentes modales, temporales, aspectuales y estésicos, así como roles actanciales. Además, incorpora indicadores axiológicos, estrategias argumentativas y recursos retóricos que orientan la interpretación afectiva, posibilitando un análisis integral y sistemático.
 
-    Aplicar técnicas de análisis exploratorio (clustering, análisis de componentes principales) para identificar patrones emergentes en los datos emocionales.
+- Aplicar técnicas de análisis exploratorio (clustering, análisis de componentes principales) para identificar patrones emergentes en los datos emocionales.
 
-    Implementar procesos de clasificación semiautomatizada mediante modelos de lenguaje a gran escala (LLMs), diseñando prompts ad hoc y validando resultados con control experto.
+- Implementar procesos de clasificación semiautomatizada mediante modelos de lenguaje a gran escala (LLMs), diseñando prompts ad hoc y validando resultados con control experto.
 
-    Desarrollar modelos de clasificación supervisada para distintos problemas específicos, empleando conjuntos de variables seleccionados según el enfoque analítico.
+- Desarrollar modelos de clasificación supervisada para distintos problemas específicos, empleando conjuntos de variables seleccionados según el enfoque analítico.
 
-    Generar visualizaciones interactivas que faciliten la interpretación y comunicación de los hallazgos, tales como mapas emocionales, campos de emoción, perfiles de experienciadores y series temporales afectivas.
+- Generar visualizaciones interactivas que faciliten la interpretación y comunicación de los hallazgos, tales como mapas emocionales, campos de emoción, perfiles de experienciadores y series temporales afectivas.
 
-    Producir un documento metodológico replicable que permita a especialistas en estudios del lenguaje y el discurso incorporar el análisis computacional de emociones en sus investigaciones.
+- Producir un documento metodológico replicable que permita a especialistas en estudios del lenguaje y el discurso incorporar el análisis computacional de emociones en sus investigaciones.
 
 ## Herramientas y tecnologías
 
-    Python: pandas, scikit-learn, seaborn, matplotlib, openpyxl, spaCy, llama-index, transformers
+- Python: pandas, scikit-learn, seaborn, matplotlib, openpyxl, spaCy, llama-index, transformers
 
-    LLMs: GPT-4 API (OpenAI) para clasificación semiautomatizada y validación interpretativa
+- LLMs: GPT-4 API (OpenAI) para clasificación semiautomatizada y validación interpretativa
 
-    NLP: técnicas de extracción léxica, análisis de tópicos, análisis morfosintáctico
+- NLP: técnicas de extracción léxica, análisis de tópicos, análisis morfosintáctico
 
-    Dimensionalidad: PCA, clustering jerárquico, k-means
+- Dimensionalidad: PCA, clustering jerárquico, k-means
 
-    Visualización: Plotly, Altair, matplotlib, seaborn
+- Visualización: Plotly, Altair, matplotlib, seaborn
 
 ## Estructura del repositorio
 
@@ -55,27 +55,27 @@ Este repositorio documenta un proyecto interdisciplinario que combina conocimien
 
 ## Ejemplos de visualizaciones
 
-    Mapas emocionales: distribución espacial de categorías emocionales según variables discursivas.
+- Mapas emocionales: distribución espacial de categorías emocionales según variables discursivas.
 
-    Campos de emoción: configuraciones de polaridades afectivas en torno a una fuente o evento emocional.
+- Campos de emoción: configuraciones de polaridades afectivas en torno a una fuente o evento emocional.
 
-    Perfiles de experienciadores: asociaciones entre tipo de actor y dominio emocional.
+- Perfiles de experienciadores: asociaciones entre tipo de actor y dominio emocional.
 
-    Series temporales afectivas: progresión emocional en textos extensos.
+- Series temporales afectivas: progresión emocional en textos extensos.
 
 ## Clasificación semiautomatizada con LLM
 
 Se implementa un flujo iterativo de prompts con verificación semiótica-humana para clasificar recortes discursivos según variables como:
 
-    Modos de presencia de la emoción
+- Modos de presencia de la emoción
 
-    Dominancia corporal / cognitiva
+- Dominancia corporal / cognitiva
 
-    Modalidad de existencia de la emoción
+- Modalidad de existencia de la emoción
 
-    Tipo de experienciador
+- Tipo de experienciador
 
-    Formas de figurativización y manipulación actancial
+- Formas de figurativización y manipulación actancial
 
 Cada fragmento es clasificado mediante uno o más prompts específicos y, si es necesario, retroalimentado para mejora de coherencia interna.
 
