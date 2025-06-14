@@ -46,12 +46,12 @@ Este repositorio documenta un proyecto interdisciplinario que combina conocimien
 
 ## Estructura del repositorio
 
-📁 data/                   ← Base anotada (anónima) y conjuntos de variables
-📁 notebooks/              ← Notebooks exploratorios y de análisis
-📁 prompts/                ← Lista documentada de prompts usados en clasificación
-📁 visualizations/         ← Ejemplos de salidas gráficas y dashboards
-📄 metodologia.md          ← Documento metodológico paso a paso
-📄 README.md               ← Este archivo
+    📁 data/                   ← Base anotada (anónima) y conjuntos de variables
+    📁 notebooks/              ← Notebooks exploratorios y de análisis
+    📁 prompts/                ← Lista documentada de prompts usados en clasificación
+    📁 visualizations/         ← Ejemplos de salidas gráficas y dashboards
+    📄 metodologia.md          ← Documento metodológico paso a paso
+    📄 README.md               ← Este archivo
 
 ## Ejemplos de visualizaciones
 
