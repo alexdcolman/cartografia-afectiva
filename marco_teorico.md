@@ -35,7 +35,7 @@ Las categorías emocionales lexicalizadas (“dolor”, “miedo”, “alegría
 
 Para capturar este fenómeno, propongo la categoría de **simulacro emocional** (Autor, 2024), inspirada en el concepto de “simulacro pasional” (Greimas y Fontanille, 1994). Esta noción permite analizar la forma en que las emociones son escenificadas discursivamente, mediante sujetos modalizados, figurativizados y sensibilizados, cuyas configuraciones generan efectos de identificación, empatía o rechazo en los destinatarios.
 
-## 2.3. Emoción y valor
+## Emoción y valor
 
 Las redes afectivo-emotivas también integran valores y normas. Aquí, el valor se define como el producto reconocido (por un observador) de una relación orientada entre al menos dos entidades, que explica la activación de comportamientos dirigidos de una hacia otra (Autor, 2024). Esto abarca:
 
@@ -53,7 +53,7 @@ En este marco, resulta clave examinar las relaciones entre emociones y valores e
 
 Estas perspectivas permiten pensar la relación entre emoción y valor como estructurante de los vínculos entre el individuo consigo mismo y con lo colectivo.
 
-## 2.4. Emoción, regulación normativa y mediación material
+## Emoción, regulación normativa y mediación material
 
 La organización psicosocial de las emociones presenta también una dimensión normativa. En distintas formaciones socioculturales, ciertas emociones adquieren estatuto de obligatoriedad o prohibición en cuanto a los agentes, circunstancias, tiempos o espacios de su expresión (Durkheim, 2012; Mauss, 1921). Este proceso define repertorios de conductas emocionalmente adecuadas, constituyendo una “cultura emocional” (Lutz y White, 1986).
 
@@ -65,13 +65,13 @@ De modo semejante, las constelaciones espaciales pueden ser comprendidas como po
 
 En consecuencia, los fenómenos discursivos de regulación emocional (Frijda, 1986; Parret, 1995b) deben articularse con los modos de mediación material y fenoménica. Esto amplía el marco para estudiar la emoción en su complejidad, como una construcción discursiva intersubjetiva, normativamente regulada, situada espacial y materialmente, y cargada de valor.
 
-## 4. Dispositivo analítico: simulacro emocional y modos de atribución
+## Dispositivo analítico: simulacro emocional y modos de atribución
 
 Este trabajo se basa analíticamente en los aportes de Plantin (2010, 2014) sobre la emoción en el discurso, así como en desarrollos de la semiótica (Fabbri, 2000; Greimas y Fontanille, 1994; Parret, 1995a, 1995b), los estudios del discurso (Micheli, 2013; Rabatel, 2012, 2013) y la teoría de la argumentación (Amossy, 2000).
 
 La hipótesis de base sostiene que las emociones pueden ser analizadas como **simulacros emocionales**, entendidos como configuraciones discursivas con estructura actancial y sintáctica (Greimas y Courtés, 2006), pasibles de ser reconocidas, inferidas o atribuidas a “lugares psicológicos” o **experienciadores** (Plantin, 2014).
 
-### 4.1 Estructura del simulacro emocional
+### Estructura del simulacro emocional
 
 La estructura mínima de un simulacro emocional incluye:
 
@@ -97,7 +97,7 @@ El simulacro puede incluir, además, los siguientes elementos:
    - **Verificadores normativos**: evalúan la adecuación cultural, situacional o social de la emoción.
    - **Verificadores observacionales**: evalúan la veracidad, sinceridad o existencia factual de la emoción expresada.
 
-### 4.2 Modos de identificación de la emoción
+### Modos de identificación de la emoción
 
 Plantin (2014) propone tres vías para identificar emociones en el discurso, que pueden combinarse:
 
@@ -105,7 +105,7 @@ Plantin (2014) propone tres vías para identificar emociones en el discurso, que
 - **Vía indirecta (salida)**: rastreo de comportamientos, posturas, reacciones o síntomas típicos de alguien emocionado.
 - **Vía indirecta (entrada)**: reconstrucción narrativa o descriptiva de situaciones que activarían razonablemente una emoción.
 
-### 4.3 Tipos de atribución emocional
+### Tipos de atribución emocional
 
 Identificamos tres formas de atribución de la emoción a un experienciador:
 
