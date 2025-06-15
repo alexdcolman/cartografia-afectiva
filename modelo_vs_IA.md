@@ -48,7 +48,7 @@ La emoción no es un residuo subjetivo ni un ruido frente a la objetividad del d
 
 Desde esta perspectiva, las emociones en el discurso no son meros añadidos expresivos. Son estructuras significantes, formas codificadas de intervenir en el mundo, con efectos pragmáticos, ideológicos y políticos.
 
-El modelo propuesto parte de esta premisa. La emocionalidad no se reduce a sentimientos discretos, listas de palabras o coordenadas binarias de polaridad. Es una dimensión relacional, modulada por marcos de sentido, estrategias retóricas y posiciones enunciativas. Por eso, las 92 variables construidas no buscan simplemente detectar afectos, sino cartografiar su inscripción discursiva. Permiten identificar, por ejemplo:
+El modelo propuesto parte de esta premisa. La emocionalidad no se reduce a sentimientos discretos, listas de palabras o coordenadas binarias de polaridad. Es una dimensión relacional, modulada por marcos de sentido, estrategias retóricas y posiciones enunciativas. Por eso, las 92 variables construidas no buscan simplemente detectar afectos, sino cartografiar su inscripción discursiva. Permiten construir, por ejemplo:
 
 -	*Mapas emocionales*, que visualizan la distribución de categorías afectivas según criterios modales, experienciales o evaluativos.
 
