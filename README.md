@@ -46,15 +46,16 @@ Este repositorio documenta un proyecto interdisciplinario que combina conocimien
 
 ## Estructura del repositorio
 
-    📁 data/                     ← Base anotada (anónima) y conjuntos de variables
-    📁 notebooks/                ← Notebooks exploratorios y de análisis
-    📁 prompts/                  ← Lista documentada de prompts usados en clasificación
-    📁 visualizations/           ← Ejemplos de salidas gráficas y dashboards
-    📄 diccionario_variables.md  ← Detalle completo de todas las variables, sus códigos, valores y notas metodológicas
-    📄 marco_teorico.md          ← Fundamentación filosófico-semiológica del enfoque sobre emoción y discurso
-    📄 metodologia.md            ← Descripción paso a paso del flujo metodológico, desde la anotación hasta el modelado
-    📄 modelo_vs_IA.md           ← Discusión crítica sobre el uso de LLMs vs. modelado experto en análisis afectivo
-    📄 README.md                 ← Este archivo
+    📁 data/                         ← Base anotada (anónima) y conjuntos de variables
+    📁 notebooks/                    ← Notebooks exploratorios y de análisis
+    📁 prompts/                      ← Lista documentada de prompts usados en clasificación
+    📁 visualizations/               ← Ejemplos de salidas gráficas y dashboards
+    📄 diccionario_variables.md      ← Detalle completo de todas las variables, sus códigos, valores y notas metodológicas
+    📄 discusion_sintesis.md         ← Síntesis del documento "tecnologias_del_afecto.md"
+    📄 marco_teorico.md              ← Fundamentación filosófico-semiológica del enfoque sobre emoción y discurso
+    📄 metodologia.md                ← Descripción paso a paso del flujo metodológico, desde la anotación hasta el modelado
+    📄 README.md                     ← Este archivo
+    📄 tecnologias_del_afecto.md     ← Discusión crítica sobre el uso de LLMs vs. modelado experto en análisis afectivo
 
 ## Ejemplos de visualizaciones
 
