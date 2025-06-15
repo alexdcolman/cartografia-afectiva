@@ -99,4 +99,5 @@ Este proyecto se publica bajo la licencia GNU GENERAL PUBLIC LICENSE Version 3, 
 ## Agradecimientos
 
 Agradezco especialmente a [Mathi Gatti](https://mathigatti.com/) por las valiosas conversaciones que venimos compartiendo sobre el vínculo entre LLMs y conocimiento experto, y por las ideas que surgieron en relación con el análisis emocional de textos infantiles, en el contexto de un proyecto conjunto en desarrollo.
+
 También, a [María Alejandra Vitale](https://uba.academia.edu/AlejandraVitale) por sus orientaciones críticas y su generosidad intelectual, que fueron clave en la elaboración de este trabajo.
