@@ -12,7 +12,7 @@ En esta óptica, el análisis se orienta a problematizar los supuestos que subya
 
 **1. La "lección amarga" y sus implicancias**
 
-En “The Bitter Lesson” (2019), Rich Sutton –referente del aprendizaje por refuerzo– resume lo que considera la enseñanza central de más de siete décadas de investigación en inteligencia artificial: los métodos generales que aprovechan la capacidad creciente del cómputo y el aprendizaje automático tienden a superar, a largo plazo, aquellos basados en conocimiento experto o estructuras humanas.
+En [“The Bitter Lesson”](http://www.incompleteideas.net/IncIdeas/BitterLesson.html), Rich Sutton (2019) –referente del aprendizaje por refuerzo– resume lo que considera la enseñanza central de más de siete décadas de investigación en inteligencia artificial: los métodos generales que aprovechan la capacidad creciente del cómputo y el aprendizaje automático tienden a superar, a largo plazo, aquellos basados en conocimiento experto o estructuras humanas.
 
 Su argumento parte de una constatación empírica: si bien los enfoques que incorporan intuiciones humanas o teorías cognitivas pueden ofrecer ventajas iniciales, su escalabilidad y capacidad de mejora suelen estar acotadas. En cambio, los métodos estadísticos generalistas, por más “opacos” o técnicamente rudimentarios que parezcan, logran avances sostenidos al apoyarse en el crecimiento exponencial del procesamiento de datos. Sutton ilustra esta dinámica con casos como el ajedrez computacional, el reconocimiento del habla o el procesamiento del lenguaje natural, donde sistemas inicialmente guiados por reglas humanas fueron progresivamente desplazados por modelos de búsqueda masiva o aprendizaje automático.
 
