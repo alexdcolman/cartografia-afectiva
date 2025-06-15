@@ -18,19 +18,19 @@ Este repositorio documenta un proyecto interdisciplinario que combina conocimien
 
 ## Objetivos
 
-- Construir una base de datos anotada con variables semiótico-discursivas que permitan un análisis inferencial riguroso de las emociones en textos especializados.
+- Construir una **base de datos anotada** con variables semiótico-discursivas que permitan un análisis inferencial riguroso de las emociones en textos especializados.
 
-- Desarrollar un metalenguaje operativo para describir las emociones como procesos discursivos complejos, tomando como unidad el simulacro emocional —una configuración sintáctico-actancial que permite identificar y atribuir emociones a experienciadores específicos—. Este metalenguaje articula 92 variables que capturan dimensiones estructurales, semántico-pragmáticas y actanciales, incluyendo características contextuales, categorías emocionales, componentes modales, temporales, aspectuales y estésicos, así como roles actanciales. Además, incorpora indicadores axiológicos, estrategias argumentativas y recursos retóricos que orientan la interpretación afectiva, posibilitando un análisis integral y sistemático.
+- Desarrollar un metalenguaje operativo para describir las emociones como procesos discursivos complejos, tomando como unidad el **simulacro emocional** —una configuración sintáctico-actancial que permite identificar y atribuir emociones a experienciadores específicos—. Este metalenguaje articula **92 variables que capturan dimensiones estructurales, semántico-pragmáticas y actanciales, incluyendo características contextuales, categorías emocionales, componentes modales, temporales, aspectuales y estésicos, así como roles actanciales**. Además, incorpora **indicadores axiológicos, estrategias argumentativas y recursos retóricos que orientan la interpretación afectiva**, posibilitando un análisis integral y sistemático.
 
-- Aplicar técnicas de análisis exploratorio (clustering, análisis de componentes principales) para identificar patrones emergentes en los datos emocionales.
+- Aplicar **técnicas de análisis exploratorio** (*clustering*, análisis de componentes principales) para identificar **patrones emergentes** en los datos emocionales.
 
-- Implementar procesos de clasificación semiautomatizada mediante modelos de lenguaje a gran escala (LLMs), diseñando prompts ad hoc y validando resultados con control experto.
+- Implementar procesos de **clasificación semiautomatizada mediante modelos de lenguaje a gran escala (LLMs)**, diseñando prompts *ad hoc* y validando resultados con control experto.
 
-- Desarrollar modelos de clasificación supervisada para distintos problemas específicos, empleando conjuntos de variables seleccionados según el enfoque analítico.
+- Desarrollar **modelos de clasificación supervisada** para distintos problemas específicos, empleando conjuntos de variables seleccionados según el enfoque analítico.
 
-- Generar visualizaciones interactivas que faciliten la interpretación y comunicación de los hallazgos, tales como mapas emocionales, campos de emoción, perfiles de experienciadores y series temporales afectivas.
+- Generar **visualizaciones interactivas** que faciliten la interpretación y comunicación de los hallazgos, tales como mapas emocionales, campos de emoción, perfiles de experienciadores y series temporales afectivas.
 
-- Producir un documento metodológico replicable que permita a especialistas en estudios del lenguaje y el discurso incorporar el análisis computacional de emociones en sus investigaciones.
+- Producir un **documento metodológico replicable** que permita a especialistas en estudios del lenguaje y el discurso incorporar el análisis computacional de emociones en sus investigaciones.
 
 ## Herramientas y tecnologías
 
