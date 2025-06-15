@@ -1,5 +1,9 @@
 # Tecnologías del afecto: interpretabilidad, conflicto y crítica en la era de los modelos generativos
 
+[Versión sintética de este documento](https://github.com/alexdcolman/cartografia-afectiva/blob/main/discusion_sintesis.md)
+
+---
+
 En los últimos años, los grandes modelos de lenguaje (LLMs) han alcanzado una notable capacidad para generar texto coherente, identificar patrones afectivos básicos y participar en tareas complejas de procesamiento del lenguaje natural. Estos desarrollos consolidaron su integración en múltiples áreas, desde la asistencia conversacional hasta el análisis automatizado de sentimientos.
 
 No obstante, su aplicación al estudio discursivo de las emociones plantea desafíos significativos. Entre ellos, destacan las dificultades para captar estructuras de sentido más allá de correlaciones estadísticas, la opacidad de sus mecanismos inferenciales y la posibilidad de replicar sesgos presentes en los datos de entrenamiento. Estos problemas no son meramente técnicos: ponen en juego modos específicos de construir conocimiento, definir categorías y organizar la interpretación.
