@@ -6,7 +6,7 @@ No obstante, su aplicación al estudio discursivo de las emociones plantea desaf
 
 Este documento argumenta una estrategia complementaria, basada en la construcción de modelos de codificación emocional informados por tradiciones críticas del análisis del discurso, la semiótica, la retórica y la teoría de la argumentación. Lejos de oponer saber experto y capacidad computacional, se explora una articulación posible entre ambos, con el objetivo de guiar los procedimientos automáticos sin renunciar a la complejidad del sentido.
 
-En esta óptica, el análisis se orienta a problematizar los supuestos que subyacen a los modelos estadísticos aplicados al lenguaje —en especial los basados en arquitecturas de LLMs— y a contrastarlos con enfoques que priorizan la interpretación situada y la historicidad de los afectos. Más que una denuncia o un rechazo, se busca habilitar un espacio crítico donde las herramientas algorítmicas puedan ser repensadas desde sus condiciones culturales, epistemológicas y políticas de producción.
+En esta óptica, el análisis se orienta a problematizar los supuestos que subyacen a los modelos estadísticos aplicados al lenguaje –en especial los basados en arquitecturas de LLMs– y a contrastarlos con enfoques que priorizan la interpretación situada y la historicidad de los afectos. Más que una denuncia o un rechazo, se busca habilitar un espacio crítico donde las herramientas algorítmicas puedan ser repensadas desde sus condiciones culturales, epistemológicas y políticas de producción.
 
 ## I. La lección amarga: una ontología de la eficiencia
 
