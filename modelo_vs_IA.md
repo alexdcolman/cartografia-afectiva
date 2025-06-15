@@ -36,7 +36,7 @@ Desde esta perspectiva, el desafío no es rechazar la computación estadística,
 
 El modelo desarrollado en este repositorio se sitúa en diálogo crítico con los enfoques de clasificación afectiva basados exclusivamente en aprendizaje automático. En lugar de delegar íntegramente la detección de lo emocional a correlaciones estadísticas, propone una estrategia combinada: construir una gramática computable de la emocionalidad discursiva, informada por marcos teóricos y conocimiento experto.
 
-Este enfoque retoma tradiciones semióticas y pragmáticas que entienden la emoción como una forma históricamente situada de significación. A partir de teorías como la semiótica de las pasiones (Greimas, Fabbri), la tópica emocional (Plantin) o las retóricas del *páthos*, se diseñó un sistema de codificación de más de noventa variables. Estas buscan capturar modos de presencia, modulaciones, mediaciones y configuraciones afectivas en los textos.
+Este enfoque retoma tradiciones semióticas y pragmáticas que entienden la emoción como una forma históricamente situada de significación. A partir de teorías como la semiótica de las pasiones (Greimas, Fabbri) y los estudios sobre la argumentación y la retórica (Amossy, Plantin), se diseñó un sistema de codificación de más de noventa variables. Estas buscan capturar modos de presencia, modulaciones, mediaciones y configuraciones afectivas en los textos.
 
 Lejos de ser simples etiquetas, estas variables son operadores que permiten representar fenómenos complejos –como el conflicto afectivo, la legitimación valorativa o la oscilación modal– de manera computacionalmente procesable, sin perder por ello su espesor hermenéutico.
 
