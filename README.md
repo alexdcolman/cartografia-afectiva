@@ -20,13 +20,13 @@ Este repositorio documenta un proyecto interdisciplinario que combina conocimien
 
 - Construir una **base de datos anotada** con variables semiótico-discursivas que permitan un análisis inferencial riguroso de las emociones en textos especializados.
 
-- Desarrollar un metalenguaje operativo para describir las emociones como procesos discursivos complejos, tomando como unidad el **simulacro emocional** —una configuración sintáctico-actancial que permite identificar y atribuir emociones a experienciadores específicos—. Este metalenguaje articula **92 variables que capturan dimensiones estructurales, semántico-pragmáticas y actanciales, incluyendo características contextuales, categorías emocionales, componentes modales, temporales, aspectuales y estésicos, así como roles actanciales**. Además, incorpora **indicadores axiológicos, estrategias argumentativas y recursos retóricos que orientan la interpretación afectiva**, posibilitando un análisis integral y sistemático.
+- Desarrollar un metalenguaje operativo para describir las emociones como procesos discursivos complejos, tomando como unidad el **simulacro emocional** —una configuración sintáctico-actancial que permite identificar y atribuir emociones a experienciadores específicos—. Este metalenguaje articula **92 variables que capturan dimensiones estructurales, semántico-pragmáticas y actanciales, incluyendo características contextuales, categorías emocionales, componentes modales, temporales, aspectuales y estésicos, así como roles actanciales**. Además, incorpora **indicadores axiológicos, estrategias argumentativas y recursos retóricos que orientan la interpretación afectiva**, lo que posibilita un análisis integral y sistemático.
 
 - Aplicar **técnicas de análisis exploratorio** (*clustering*, análisis de componentes principales) para identificar **patrones emergentes** en los datos emocionales.
 
-- Implementar procesos de **clasificación semiautomatizada mediante modelos de lenguaje a gran escala (LLMs)**, diseñando prompts *ad hoc* y validando resultados con control experto.
+- Implementar procesos de **clasificación semiautomatizada mediante modelos de lenguaje a gran escala (LLMs)**, mediante el diseño de prompts *ad hoc* y la validación de resultados con control experto.
 
-- Desarrollar **modelos de clasificación supervisada** para distintos problemas específicos, empleando conjuntos de variables seleccionados según el enfoque analítico.
+- Desarrollar **modelos de clasificación supervisada** para distintos problemas específicos, a partir del empleo de conjuntos de variables seleccionados según el enfoque analítico.
 
 - Generar **visualizaciones interactivas** que faciliten la interpretación y comunicación de los hallazgos, tales como mapas emocionales, campos de emoción, perfiles de experienciadores y series temporales afectivas.
 
@@ -98,4 +98,5 @@ Este proyecto se publica bajo la licencia GNU GENERAL PUBLIC LICENSE Version 3, 
 
 ## Agradecimientos
 
-Agradezco especialmente a [María Alejandra Vitale](https://uba.academia.edu/AlejandraVitale) por sus orientaciones críticas y su generosidad intelectual, que fueron clave en la elaboración de este trabajo.
+Agradezco especialmente a [Mathi Gatti](https://mathigatti.com/) por las valiosas conversaciones que venimos compartiendo sobre el vínculo entre LLMs y conocimiento experto, y por las ideas que surgieron en relación con el análisis emocional de textos infantiles, en el contexto de un proyecto conjunto en desarrollo.
+También, a [María Alejandra Vitale](https://uba.academia.edu/AlejandraVitale) por sus orientaciones críticas y su generosidad intelectual, que fueron clave en la elaboración de este trabajo.
