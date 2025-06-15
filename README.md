@@ -88,7 +88,7 @@ Cada fragmento es clasificado mediante uno o más prompts específicos y, si es 
 
 - diccionario_variables.md: Diccionario completo de variables con notas metodológicas detalladas.
 
-- marco_teorico.md: Fundamento teórico del enfoque, con eje en la filosofía simondoniana y su articulación con la semiótica, lingüística y análisis del discurso.
+- marco_teorico.md: Fundamento teórico del enfoque, con eje en la filosofía simondoniana y su articulación con la semiótica, la lingüística y el análisis del discurso.
 
 - modelo_vs_IA.md: Ensayo sobre los límites del análisis escalable automatizado y la necesidad de marcos expertos en la definición de variables.
 
