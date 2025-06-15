@@ -6,7 +6,7 @@ Este repositorio presenta un análisis computacional de emociones en textos espe
 
 Este proyecto fue desarrollado por:
 
-- **Alex Colman – Diseño metodológico, modelado y análisis**
+- **Alex Colman [independent.academia.edu/AlexColman1](https://independent.academia.edu/AlexColman1) – Diseño metodológico, modelado y análisis**
 
 Para dudas o colaboraciones, podés contactarme vía GitHub o correo:
 alexdcolman@gmail.com
