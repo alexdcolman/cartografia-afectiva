@@ -1,5 +1,7 @@
 # Tecnologías del afecto: interpretabilidad, conflicto y crítica en la era de los modelos generativos
 
+---
+
 [Versión sintética de este documento](https://github.com/alexdcolman/cartografia-afectiva/blob/main/discusion_sintesis.md)
 
 ---
