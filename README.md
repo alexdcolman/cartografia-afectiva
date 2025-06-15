@@ -50,10 +50,10 @@ Este repositorio documenta un proyecto interdisciplinario que combina conocimien
     📁 notebooks/                ← Notebooks exploratorios y de análisis
     📁 prompts/                  ← Lista documentada de prompts usados en clasificación
     📁 visualizations/           ← Ejemplos de salidas gráficas y dashboards
-    📄 diccionario_variables.md  ← Diccionario de variables con notas metodológicas
-    📄 marco_teorico.md          ← Fundamentos teóricos del enfoque adoptado
-    📄 metodologia.md            ← Documento metodológico paso a paso
-    📄 modelo_vs_IA.md           ← Discusión: modelado experto vs. generación autónoma de variables por LLMs
+    📄 diccionario_variables.md  ← Detalle completo de todas las variables, sus códigos, valores y notas metodológicas
+    📄 marco_teorico.md          ← Fundamentación filosófico-semiológica del enfoque sobre emoción y discurso
+    📄 metodologia.md            ← Descripción paso a paso del flujo metodológico, desde la anotación hasta el modelado
+    📄 modelo_vs_IA.md           ← Discusión crítica sobre el uso de LLMs vs. modelado experto en análisis afectivo
     📄 README.md                 ← Este archivo
 
 ## Ejemplos de visualizaciones
