@@ -1,12 +1,12 @@
-# Modelos expertos vs. IA en el análisis de emociones: síntesis de una discusión crítica
+# Modelos expertos vs. IA en el análisis de emociones: síntesis de una discusión
 
-**Resumen:** Este documento resume los principales ejes de discusión teórica y metodológica desarrollados en el documento ["Tecnologías del afecto"](https://github.com/alexdcolman/cartografia-afectiva/blob/main/tecnologias_del_afecto.md) sobre el modelo de análisis emocional desarrollado en este repositorio. En él se contrastan los enfoques automatizados basados en inteligencia artificial con modelos guiados por saberes expertos. Más que oponerlos, se propone una articulación crítica que reinscribe el uso de herramientas computacionales dentro de una lógica interpretativa situada, orientada por marcos conceptuales provenientes de la semiótica, el análisis del discurso y los estudios del lenguaje afectivo.
+**Resumen:** Este documento resume los principales ejes de discusión teórica y metodológica desarrollados en ["Tecnologías del afecto"](https://github.com/alexdcolman/cartografia-afectiva/blob/main/tecnologias_del_afecto.md), rn relación con el modelo de análisis emocional implementado en este repositorio. Se contrasta el uso de herramientas de inteligencia artificial con enfoques guiados por codificación experta. Más que una oposición, se propone una articulación crítica en la que las técnicas computacionales se reinscriben dentro de una lógica interpretativa situada, informada por marcos conceptuales provenientes de la semiótica, la retórica, el análisis del discurso y los estudios sobre la argumentación.
 
 ## 1. Una herramienta complementaria al análisis automatizado
 
-El modelo surge como respuesta a las limitaciones de los abordajes hegemónicos en el análisis computacional de emociones, centrados en la clasificación automática de afectos según taxonomías discretas, universalizables y escalables. Frente a ello, se propone una estrategia de codificación experta basada en más de 90 variables interpretativas, que permiten mapear las emociones como una dimensión relacional, semióticamente construida y discursivamente situada.
+El modelo parte de una crítica a los abordajes predominantes en el análisis computacional de emociones, centrados en la clasificación automática según taxonomías discretas, universalizables y orientadas al escalamiento. Frente a esta perspectiva, se propone una estrategia de codificación experta basada en más de 90 variables interpretativas, que permiten representar las emociones como una dimensión relacional, semióticamente construida y situada en marcos discursivos específicos.
 
-El modelo teoriza y sistematiza la mediación humana, mediante la articulación de teoría del discurso, semiótica, retórica y argumentación con técnicas computacionales de visualización y procesamiento.
+El objetivo no es reemplazar las herramientas automatizadas, sino ampliar su alcance analítico mediante una mediación conceptual que permita captar fenómenos de alta densidad semántica y complejidad contextual.
 
 ## 2. Saberes expertos, mediación y metalenguaje
 
