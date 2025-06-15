@@ -6,7 +6,7 @@ Este repositorio presenta un análisis computacional de emociones en textos espe
 
 Este proyecto fue desarrollado por:
 
-- **Alex Colman** [independent.academia.edu/AlexColman1](https://independent.academia.edu/AlexColman1)
+- **[Alex Colman](https://independent.academia.edu/AlexColman1)**
 
 Para dudas o colaboraciones, podés contactarme vía GitHub o correo:
 alexdcolman@gmail.com
@@ -82,3 +82,7 @@ Cada fragmento es clasificado mediante uno o más prompts específicos y, si es 
 ## Licencia
 
 Este proyecto se publica bajo la licencia GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007. Podés reutilizar y modificar el código citando adecuadamente.
+
+## Agradecimientos
+
+Agradezco especialmente a [María Alejandra Vitale](https://uba.academia.edu/AlejandraVitale) por sus orientaciones críticas y su generosidad intelectual, que fueron clave en la elaboración de este trabajo.
