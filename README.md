@@ -50,11 +50,11 @@ Este repositorio documenta un proyecto interdisciplinario que combina conocimien
     📁 notebooks/                ← Notebooks exploratorios y de análisis
     📁 prompts/                  ← Lista documentada de prompts usados en clasificación
     📁 visualizations/           ← Ejemplos de salidas gráficas y dashboards
-    📄 metodologia.md            ← Documento metodológico paso a paso
-    📄 README.md                 ← Este archivo
     📄 diccionario_variables.md  ← Diccionario de variables con notas metodológicas
     📄 marco_teorico.md          ← Fundamentos teóricos del enfoque adoptado
+    📄 metodologia.md            ← Documento metodológico paso a paso
     📄 modelo_vs_IA.md           ← Discusión: modelado experto vs. generación autónoma de variables por LLMs
+    📄 README.md                 ← Este archivo
 
 ## Ejemplos de visualizaciones
 
