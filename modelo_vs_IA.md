@@ -46,7 +46,7 @@ En ese sentido, el modelo no se plantea como alternativa excluyente a los enfoqu
 
 La emoción no es un residuo subjetivo ni un ruido frente a la objetividad del dato. Tiene espesor cognitivo, valor epistémico y fuerza organizadora. Configura jerarquías valorativas, orienta la interpretación y contribuye a la inteligibilidad social de los conflictos.
 
-Desde esta perspectiva, las pasiones en el discurso no son meros añadidos expresivos. Son estructuras significantes, formas codificadas de intervenir en el mundo, con efectos pragmáticos, ideológicos y políticos.
+Desde esta perspectiva, las emociones en el discurso no son meros añadidos expresivos. Son estructuras significantes, formas codificadas de intervenir en el mundo, con efectos pragmáticos, ideológicos y políticos.
 
 El modelo propuesto parte de esta premisa. La emocionalidad no se reduce a sentimientos discretos, listas de palabras o coordenadas binarias de polaridad. Es una dimensión relacional, modulada por marcos de sentido, estrategias retóricas y posiciones enunciativas. Por eso, las 92 variables construidas no buscan simplemente detectar afectos, sino cartografiar su inscripción discursiva. Permiten identificar, por ejemplo:
 
