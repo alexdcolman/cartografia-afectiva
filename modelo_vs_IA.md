@@ -8,9 +8,9 @@ Este documento argumenta una estrategia complementaria, basada en la construcci�
 
 En esta óptica, el análisis se orienta a problematizar los supuestos que subyacen a los modelos estadísticos aplicados al lenguaje –en especial los basados en arquitecturas de LLMs– y a contrastarlos con enfoques que priorizan la interpretación situada y la historicidad de los afectos. Más que una denuncia o un rechazo, se busca habilitar un espacio crítico donde las herramientas algorítmicas puedan ser repensadas desde sus condiciones culturales, epistemológicas y políticas de producción.
 
-## I. La lección amarga: una ontología de la eficiencia
+## I. Entre eficiencia y sentido: tensiones en el paradigma computacional
 
-**1. Sutton y el paradigma computacional**
+**1. La "lección amarga" y sus implicancias**
 
 En “The Bitter Lesson” (2019), Rich Sutton –referente del aprendizaje por refuerzo– resume lo que considera la enseñanza central de más de siete décadas de investigación en inteligencia artificial: los métodos generales que aprovechan la capacidad creciente del cómputo y el aprendizaje automático tienden a superar, a largo plazo, aquellos basados en conocimiento experto o estructuras humanas.
 
