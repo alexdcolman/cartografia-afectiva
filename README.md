@@ -52,6 +52,9 @@ Este repositorio documenta un proyecto interdisciplinario que combina conocimien
     📁 visualizations/         ← Ejemplos de salidas gráficas y dashboards
     📄 metodologia.md          ← Documento metodológico paso a paso
     📄 README.md               ← Este archivo
+    📄 diccionario_variables.md  ← Diccionario de variables con notas metodológicas
+    📄 marco_teorico.md          ← Fundamentos teóricos del enfoque adoptado
+    📄 modelo_vs_IA.md           ← Discusión: modelado experto vs. generación autónoma de variables por LLMs
 
 ## Ejemplos de visualizaciones
 
@@ -78,6 +81,16 @@ Se implementa un flujo iterativo de prompts con verificación semiótica-humana 
 - Formas de figurativización y manipulación actancial
 
 Cada fragmento es clasificado mediante uno o más prompts específicos y, si es necesario, retroalimentado para mejora de coherencia interna.
+
+## Documentos adicionales
+
+- metodologia.md: Descripción paso a paso del proceso metodológico.
+
+- diccionario_variables.md: Diccionario completo de variables con notas metodológicas detalladas.
+
+- marco_teorico.md: Fundamento teórico del enfoque, con eje en la filosofía simondoniana y su articulación con la semiótica, lingüística y análisis del discurso.
+
+- modelo_vs_IA.md: Ensayo sobre los límites del análisis escalable automatizado y la necesidad de marcos expertos en la definición de variables.
 
 ## Licencia
 
