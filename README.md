@@ -46,7 +46,7 @@ Este repositorio documenta un proyecto interdisciplinario que combina conocimien
 
 ## Estructura del repositorio
 
-    📁 [data/](https://github.com/alexdcolman/cartografia-afectiva/tree/data)                         ← Base anotada (anónima) y conjuntos de variables
+    📁 data/                         ← Base anotada (anónima) y conjuntos de variables
     📁 notebooks/                    ← Notebooks exploratorios y de análisis
     📁 prompts/                      ← Lista documentada de prompts usados en clasificación
     📁 visualizations/               ← Ejemplos de salidas gráficas y dashboards
@@ -85,13 +85,13 @@ Cada fragmento es clasificado mediante uno o más prompts específicos y, si es 
 
 ## Documentos adicionales
 
-- metodologia.md: Descripción paso a paso del proceso metodológico.
+- [metodologia.md](https://github.com/alexdcolman/cartografia-afectiva/blob/main/metodologia.md): Descripción paso a paso del proceso metodológico.
 
-- diccionario_variables.md: Diccionario completo de variables con notas metodológicas detalladas.
+- [diccionario_variables.md](https://github.com/alexdcolman/cartografia-afectiva/blob/main/diccionario_variables.md): Diccionario completo de variables con notas metodológicas detalladas.
 
-- marco_teorico.md: Fundamento teórico del enfoque, con eje en la filosofía simondoniana y su articulación con la semiótica, la lingüística y el análisis del discurso.
+- [marco_teorico.md](https://github.com/alexdcolman/cartografia-afectiva/blob/main/marco_teorico.md): Fundamento teórico del enfoque, con eje en la filosofía simondoniana y su articulación con la semiótica, la lingüística y el análisis del discurso.
 
-- modelo_vs_IA.md: Ensayo sobre los límites del análisis escalable automatizado y la necesidad de marcos expertos en la definición de variables.
+- [modelo_vs_IA.md](https://github.com/alexdcolman/cartografia-afectiva/blob/main/tecnologias_del_afecto.md): Ensayo sobre los límites del análisis escalable automatizado y la necesidad de marcos expertos en la definición de variables.
 
 ## Licencia
 
