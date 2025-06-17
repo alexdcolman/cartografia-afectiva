@@ -12,13 +12,13 @@ El objetivo no es reemplazar las herramientas automatizadas, sino ampliar su alc
 
 El debate sobre los modelos generativos (como los LLMs) plantea una tensión entre conocimiento experto y escalamiento computacional. Según [Rich Sutton](http://www.incompleteideas.net/IncIdeas/BitterLesson.html), el progreso en IA ha favorecido métodos generales que escalan con mayor capacidad de cómputo, por sobre enfoques centrados en saberes específicos. Aunque el saber experto puede mejorar el rendimiento en el corto plazo, en el largo plazo tiende a estancarse e incluso obstaculizar el progreso, frente a la eficiencia sostenida de métodos que aprovechan el crecimiento exponencial de la capacidad computacional. Sin embargo, los LLMs generan representaciones internas (como [espacios de *embeddings*](https://jalammar.github.io/illustrated-word2vec/) o [capas de atención](https://jalammar.github.io/illustrated-transformer/)) que funcionan como formas emergentes de organización semántica, un metalenguaje propio, aunque sin garantizar una mediación interpretativa transparente.
 
-A diferencia de los enfoques de la IA simbólica, que codificaban saber experto mediante reglas explícitas y ontologías cerradas, este modelo se apoya en una formalización interpretativa flexible. Las variables desarrolladas no buscan agotar el sentido, sino mediar entre teoría y datos, traduciendo distinciones conceptuales en estructuras computables y adaptables. La incorporación de saberes expertos se concibe como un marco reflexivo que orienta el procesamiento automatizado sin reemplazarlo.
+A diferencia de los enfoques de la [IA simbólica](https://en.wikipedia.org/wiki/Symbolic_artificial_intelligence), que codificaban saber experto mediante reglas explícitas y ontologías cerradas, este modelo se apoya en una formalización interpretativa flexible. Las variables desarrolladas no buscan agotar el sentido, sino mediar entre teoría y datos, traduciendo distinciones conceptuales en estructuras computables y adaptables. La incorporación de saberes expertos se concibe como un marco reflexivo que orienta el procesamiento automatizado sin reemplazarlo.
 
 ## 3. Dispositivo analítico e inscripción teórica
 
 El modelo se inscribe en un marco conceptual que articula tres núcleos:
 
-- **Emoción como construcción discursiva**: siguiendo a autores como Plantin, Fabbri y Greimas, las emociones se entienden como formas de sentido producidas en el lenguaje y el discurso.
+- **Emoción como construcción discursiva**: siguiendo a autores como Plantin, Fabbri y Greimas, las emociones se entienden como construcciones de sentido generadas en el lenguaje y el discurso, modeladas por operaciones enunciativas, narrativas y retóricas. La emoción emerge como una forma semiótica situada, organizada por valores, posiciones actorales y configuraciones discursivas.
 
 - **Analítica afectiva como dispositivo epistémico**: las categorías emocionales se consideran históricas, políticas y situadas, más que universales o neutrales.
 
@@ -50,7 +50,7 @@ Además, el modelo habilita usos combinados con técnicas de aprendizaje automá
 
 - **Clustering no supervisado orientado por variables semióticas** para detectar patrones afectivos emergentes.
 
-- **Evaluación comparativa entre codificación experta y representaciones generativas** (e.g., BERT, GPT) para analizar convergencias y tensiones.
+- **Evaluación comparativa entre codificación experta y representaciones generativas** (e.g., [BERT](https://jalammar.github.io/illustrated-bert/), [GPT](https://platform.openai.com/docs/concepts)) para analizar convergencias y tensiones.
 
 ## 6. Conclusión: hacia una inteligencia hermenéutica
 
