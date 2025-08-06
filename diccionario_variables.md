@@ -1,6 +1,6 @@
 # Diccionario de variables
 
-Este documento presenta el conjunto completo de variables utilizadas en la base anotada del proyecto, incluyendo su clasificación, códigos, valores posibles, definiciones, fundamentos teóricos y notas metodológicas de codificación.
+Este documento presenta el conjunto completo de variables utilizadas en la base anotada del proyecto, incluyendo su clasificación, códigos, valores posibles, definiciones, fundamentos teóricos y notas metodológicas de codificación. **Nota**: El diccionario se encuentra en proceso de construcción.
 
 ## Formato de presentación
 
