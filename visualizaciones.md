@@ -32,7 +32,7 @@ Este gráfico muestra la distribución conjunta de tres dimensiones clave de la 
 
 ## Gráfico 6: Heatmap emoción × tipo de atribución
 
-Este mapa de calor permite visualizar la frecuencia conjunta entre categorías emocionales básicas y tipos de atribución de la emoción en los recortes. La intensidad del color refleja la cantidad de casos, mostrando qué emociones suelen ser atribuidas como auto-experimentadas, hetero-attribuidas o transpositivamente atribuidas a terceros. Esto aporta información sobre las dinámicas de responsabilidad afectiva en el discurso y sobre cómo se distribuyen las emociones según quién las siente o a quién se le atribuyen.
+Este mapa de calor permite visualizar la frecuencia conjunta entre categorías emocionales básicas y tipos de atribución de la emoción en los recortes. La intensidad del color refleja la cantidad de casos, mostrando qué emociones suelen ser atribuidas como auto-experimentadas, hetero-atribuidas o transpositivamente atribuidas a terceros. Esto aporta información sobre las dinámicas de responsabilidad afectiva en el discurso y sobre cómo se distribuyen las emociones según quién las siente o a quién se le atribuyen.
 
 ![Gráfico 6](https://github.com/alexdcolman/cartografia-afectiva/blob/main/visualizations/7.png)
 
