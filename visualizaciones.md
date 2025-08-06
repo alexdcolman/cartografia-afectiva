@@ -2,7 +2,7 @@
 
 ## Gráfico 1: Experienciador vs Categoría emocional (DOM_EM) con tipo de atribución como color
 
-Este gráfico de barras agrupadas presenta la distribución de las emociones según el tipo de experienciador identificado en los recortes discursivos. La variable "tipo de experienciador" permite distinguir quién es el sujeto emocional (investigadores, actores históricos, etc.), mientras que las categorías emocionales corresponden a una clasificación basada en Ekman. El uso del color para el tipo de atribución añade una dimensión que señala cómo se atribuye o se expresa la emoción en el texto. Esta visualización ayuda a comprender qué emociones predominan según quién las experimenta o representa, aportando claves sobre las relaciones afectivas que se despliegan en el archivo.
+Este gráfico de barras agrupadas presenta la distribución de las emociones según el tipo de experienciador identificado en los recortes discursivos. La variable "tipo de experienciador" permite distinguir quién es el sujeto emocional (investigadores, actores históricos, etc.), mientras que las categorías emocionales corresponden a una clasificación basada en Ekman. Esta visualización ayuda a comprender qué emociones predominan según quién las experimenta o representa, aportando claves sobre las relaciones afectivas que se despliegan en el archivo.
 
 ![Gráfico 1](https://github.com/alexdcolman/cartografia-afectiva/blob/main/visualizations/1.png)
 
