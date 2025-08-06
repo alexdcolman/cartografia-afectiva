@@ -14,7 +14,7 @@ Este gráfico muestra cómo varía el carácter emocional (foria) en función de
 
 ## Gráfico 3: Modo de existencia vs Foria (barras apiladas)
 
-Aquí se presenta la distribución relativa del carácter emocional según el modo de existencia semiótica de la emoción. El gráfico de barras apiladas permite ver cómo se combinan las categorías de foria dentro de cada modo de existencia, evidenciando diferencias en la intensidad o cualidad emocional asociada a distintos modos (por ejemplo, emociones inscritas como hechos, percepciones o construcciones discursivas). Este análisis ofrece pistas sobre cómo se configuran las emociones en términos de su existencia en el texto y su impacto afectivo.
+Aquí se presenta la distribución relativa del carácter emocional según el modo de existencia semiótica de la emoción. El gráfico de barras apiladas permite ver cómo se combinan las categorías de foria dentro de cada modo de existencia, evidenciando diferencias en la intensidad o cualidad emocional asociada a distintos modos (por ejemplo, emociones inscritas como hechos, potencialidades o competencias emocionales). Este análisis ofrece pistas sobre cómo se configuran las emociones en términos de su existencia en el texto y su impacto afectivo.
 
 ![Gráfico 3](https://github.com/alexdcolman/cartografia-afectiva/blob/main/visualizations/3.png)
 
