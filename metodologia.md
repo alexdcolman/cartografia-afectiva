@@ -1,4 +1,4 @@
-# Metodología
+# Metodología (En construcción)
 
 Este documento describe detalladamente el flujo metodológico del proyecto “Cartografía afectiva”, desde la construcción del corpus hasta la visualización de resultados.
 
