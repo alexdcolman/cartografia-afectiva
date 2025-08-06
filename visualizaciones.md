@@ -26,7 +26,7 @@ Mediante un gráfico de barras agrupadas, se explora la variación del carácter
 
 ## Gráfico 5: Mapa emocional por experienciador (FacetGrid con scatterplots)
 
-Este gráfico muestra la distribución conjunta de tres dimensiones clave de la emoción —dominancia, carácter emocional (foria) e intensidad— para cada tipo de experienciador identificado en el corpus. La segmentación por columnas facilita comparar cómo varían estos parámetros afectivos según si el experienciador es un enunciador, actores represivos, vigilados o contemporáneos. El uso de color para el tipo de atribución (auto, hetero, transpositiva) y la forma del punto para la categoría emocional (alegría, tristeza, etc.) enriquecen el análisis visual, permitiendo observar patrones complejos y multidimensionales que pueden dar cuenta de diferentes formas de presencia emocional en el discurso.
+Este gráfico muestra la distribución conjunta de tres dimensiones clave de la emoción —dominancia, carácter emocional (foria) e intensidad— para cada tipo de experienciador identificado en el corpus. La segmentación por columnas facilita comparar cómo varían estos parámetros afectivos según si el experienciador es un enunciador, actores represivos, vigilados o contemporáneos. El uso de color para el tipo de atribución (auto, hetero, transpositiva) enriquece el análisis visual, permitiendo observar patrones que pueden dar cuenta de diferentes formas de presencia emocional en el discurso.
 
 ![Gráfico 5](https://github.com/alexdcolman/cartografia-afectiva/blob/main/visualizations/6.png)
 
