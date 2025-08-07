@@ -1,6 +1,6 @@
 # Cartografía afectiva
 
-Este repositorio presenta un análisis computacional de emociones en textos especializados que integra saberes de semiótica, análisis del discurso, teoría de la argumentación, retórica y lingüística textual (entre otras disciplinas dentro del amplio campo de los estudios del lenguaje), NLP y modelos de lenguaje (LLM) para modelar la emergencia, modulación y distribución emocional en discursos académicos, políticos, administrativos y culturales.
+Este repositorio en construcción presenta un análisis computacional de emociones en textos especializados que integra saberes de semiótica, análisis del discurso, teoría de la argumentación, retórica y lingüística textual (entre otras disciplinas dentro del amplio campo de los estudios del lenguaje), NLP y modelos de lenguaje (LLM) para modelar la emergencia, modulación y distribución emocional en discursos académicos, políticos, administrativos y culturales.
 
 ## Autoría
 
